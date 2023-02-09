@@ -6,5 +6,5 @@ autor Laiza Leon Cruz
 8vo Ingenieria en Sistemas Computacionales
 Luis 
 Rufino
-Saul
+Saula
 Paulina
